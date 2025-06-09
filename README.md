@@ -8,7 +8,7 @@ But then we get to src. Oh, the horror. The sheer, unadulterated horror. Global.
 
 And Databases. Inside? Schemas, which is expected, and then... Others. OTHERS. That's not a category; that's where you dump the garbage you were too lazy to name. It's the digital equivalent of sweeping dirt under the rug. And then, the Punitives files. My God. Punitives.Punishments.js. Punitives.Jails.js. Punitives.Mutes.js. And what in the ever-loving fuck is Punitives.Vmutes.js? A "Voice Mute"? Did you invent a new, more pathetic form of silence, cant you just add it into the fucking Punitivies.Mutes? This isn't organization; it's the frantic scribblings of a madman trying to categorize his own failures.
 
-Now for the second act. The pièce de résistance of your idiocy. The Server structure. Controller, Distributors, Guard, Statistics, Sync, Voucher. And what's inside every single one? _events and... a folder named after yourself.
+Now for the second act. The pièce de résistance of your idiocy. The Server structure. Controller, Distributors, Guard, Statistics, Sync, Voucher. And what's inside every single one? _events and... a file named after yourself.
 
 You absolute narcissist.
 
